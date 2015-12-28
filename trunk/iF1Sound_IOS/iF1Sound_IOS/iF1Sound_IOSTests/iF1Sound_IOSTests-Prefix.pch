@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iF1Sound_IOSTests' target in the 'iF1Sound_IOSTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif

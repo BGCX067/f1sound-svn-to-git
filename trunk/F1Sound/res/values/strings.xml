@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, F1SoundActivity!</string>
+    <string name="app_name">F1Sound</string>
+
+</resources>
